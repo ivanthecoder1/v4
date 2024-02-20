@@ -70,17 +70,8 @@ const Hero = () => {
       </p>
     </>
   );
-  const five = (
-    <a
-      className="email-link"
-      href="https://www.youtube.com/watch?v=xfr64zoBTAQ"
-      target="_blank"
-      rel="noreferrer">
-      Cool Link
-    </a>
-  );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, four];
 
   return (
     <StyledHeroSection>
