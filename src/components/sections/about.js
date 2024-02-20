@@ -142,13 +142,14 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I'm a CS student at{' '}
-              <a href="https://www2.lehigh.edu/">Lehigh University</a>. I also currently work as a
-              student web developer at Lehigh as a work study position. As of now, I am interning at
-              Studio Corsair as part of Lehigh Silicon Valley Innovation Internship Program.
+              <a href="https://www2.lehigh.edu/">Lehigh University</a>. I currently work as a
+              student web developer at Lehigh for my work study. As of now, I am interning at Studio
+              Corsair as part of Lehigh Silicon Valley Innovation Internship Program.
             </p>
 
             <p>
-              In my free time, I like to play indie video games, weightlift, watch anime, and boxing
+              In my free time, I like playing indie games, weightlifting, watching anime, and
+              boxing.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
