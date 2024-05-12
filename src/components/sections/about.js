@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Express.js', 'Node.js', 'MongoDB'];
+  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Next.js', 'Node.js', 'Jest'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,22 +135,13 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Ivan. I started programming in my second year of high school because
-              of my love for video games. Eventually, I became interested in web development and
-              software engineering.
-            </p>
-
-            <p>
               Fast-forward to today, and I'm a CS student at{' '}
               <a href="https://www2.lehigh.edu/">Lehigh University</a>. I currently work as a
-              student web developer at Lehigh for my work study. As of now, I am interning at Studio
-              Corsair as part of Lehigh Silicon Valley Innovation Internship Program.
+              student web developer at Lehigh for my work study. As of now, I am interning at
+              NBCUniversal as a SWE intern for summer 2024.
             </p>
 
-            <p>
-              In my free time, I like playing indie games, weightlifting, watching anime, and
-              boxing.
-            </p>
+            <p>In my free time, I enjoy playing indie games, weightlifting, anime, and boxing.</p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>

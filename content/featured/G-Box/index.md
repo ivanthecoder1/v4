@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'G-Box'
 cover: './gbox.png'
 github: 'https://github.com/ivanthecoder1/G-Box'
