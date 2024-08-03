@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Capstone: Lutron Multi-User Floor Plan'
+title: 'Lutron Multi-User Floor Plan'
 cover: './Lutron.png'
 external: 'https://github.com/ayushshah21/Lutron-Floor-Plan'
 cta: 'https://github.com/ayushshah21/Lutron-Floor-Plan'
@@ -13,4 +13,4 @@ tech:
   - Cypress
 ---
 
-A Miro-like multi-user application where users can upload floor plans (ceiling plans) and annotate it with other users in real-time using stamps / icons (representing sensors, shades, light fixtures, etc)
+Engineering an application (Capstone) for Lutron that enables professional liaisons to annotate floor plans in real time with multiple collaborators. Users can upload floor plans (ceiling plans) and annotate it with other users in real-time using stamps / icons (representing sensors, shades, light fixtures, etc)

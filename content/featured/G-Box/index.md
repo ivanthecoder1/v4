@@ -12,4 +12,4 @@ tech:
   - Node.js
 ---
 
-A game launcher where users can go on and play browser games (solitaire, checkers, minesweeper, pac-man, etc).
+A game launcher where users play browser games (solitaire, checkers, minesweeper, pac-man, etc). Admins can manually add, update, and delete browser games stored on the website.
