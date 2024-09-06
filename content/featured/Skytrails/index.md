@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Skytrails'
-cover: './Skytrails.png'
+cover: './Skytrails.jpg'
 github: 'https://github.com/ivanthecoder1/Skytrails'
 external: 'https://github.com/ivanthecoder1/Skytrails'
 tech:
