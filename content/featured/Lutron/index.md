@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Lutron Multi-User Floor Plan'
-cover: './Lutron.png'
+cover: './lutron.jpg'
 external: 'https://github.com/ayushshah21/Lutron-Floor-Plan'
 cta: 'https://github.com/ayushshah21/Lutron-Floor-Plan'
 tech:
