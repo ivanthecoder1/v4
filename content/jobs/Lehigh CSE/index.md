@@ -1,7 +1,7 @@
 ---
 date: '2024-09-25'
-title: 'Teaching Assistant'
-company: 'Lehigh - CSE 264 (Web Systems Programming Course)'
+title: 'Software Development Intern'
+company: 'Lehigh CSE'
 location: 'Bethlehem, PA'
 range: 'September 2024 - Present'
 url: 'https://engineering.lehigh.edu/cse'
