@@ -65,8 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm currently a senior at Lehigh University, majoring in computer science. I aim to deepen
-        my understanding in various areas of technology and software development.
+        I'm a senior at Lehigh University with a major in computer science. Passionate about
+        software development, and engineering creative and efficient solutions.
       </p>
     </>
   );

@@ -3,7 +3,7 @@ date: '2017-04-01'
 title: 'Web Developer'
 company: 'Lehigh University Library & Technology Services'
 location: 'Bethlehem, PA'
-range: 'August 2022 - Present'
+range: 'August 2022 - September 2024'
 url: 'https://lts.lehigh.edu/'
 ---
 
