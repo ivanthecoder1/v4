@@ -13,4 +13,4 @@ tech:
   - Cypress
 ---
 
-Engineering an application (Capstone) for Lutron that enables professional liaisons to annotate floor plans in real time with multiple collaborators. Users can upload floor plans (ceiling plans) and annotate it with other users in real-time using stamps / icons (representing sensors, shades, light fixtures, etc)
+Developed an application (Capstone) for Lutron that enables professional liaisons to annotate floor plans in real time with multiple collaborators. Users can upload floor plans and annotate it with other users in real-time using stamps / icons (representing sensors, shades, light fixtures, etc)

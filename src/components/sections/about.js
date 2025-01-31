@@ -139,13 +139,12 @@ const About = () => {
               of my love for video games. Eventually, I became interested in web development and
               software engineering. Fast-forward to today, and I'm a CS student at{' '}
               <a href="https://www2.lehigh.edu/">Lehigh University</a>. I am currently a software
-              development intern at my university where I create useful applications for the CSE
-              department. I am also a CodePath Tech Fellow where I provide assistance to students
-              taking the intermediate web development course. I also am a teaching assistant for CSE
-              264 (Web Develpment) where I grade projects and quizzes.
+              development intern at my university where I am working on a food event application for
+              the CSE department. I am also a CodePath Tech Fellow where I provide assistance to
+              students taking the intermediate web development course.
             </p>
 
-            <p>My hobbies include playing indie games, weightlifting, reading manga, and boxing.</p>
+            <p>My hobbies include playing indie games, weightlifting, and boxing.</p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>

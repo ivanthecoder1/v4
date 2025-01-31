@@ -61,12 +61,11 @@ const Hero = () => {
 
   const one = <h1>Hello, my name is</h1>;
   const two = <h2 className="big-heading">Ivan Zhang</h2>;
-  const three = <h3 className="big-heading">I like coding.</h3>;
+  const three = <h3 className="big-heading">Lehigh University - Computer Science</h3>;
   const four = (
     <>
       <p>
-        I'm a senior at Lehigh University with a major in computer science. Passionate about
-        software development, and engineering creative and efficient solutions.
+        Passionate about software development, and engineering creative and efficient solutions.
       </p>
     </>
   );

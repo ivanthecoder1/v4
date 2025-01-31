@@ -1,9 +1,9 @@
 ---
 date: '2024-08-25'
 title: 'Teaching Assistant'
-company: 'Lehigh - CSE 264 (Web Systems Programming Course)'
+company: 'Lehigh University - Web Systems Programming Course'
 location: 'Bethlehem, PA'
-range: 'August 2024 - Present'
+range: 'August 2024 - December 2024'
 url: 'https://engineering.lehigh.edu/cse/academics/course-index/cse-264-web-systems-programming-3'
 ---
 
