@@ -3,7 +3,7 @@ date: '2024-08-19'
 title: 'Tech Fellow'
 company: 'CodePath'
 location: 'Remote'
-range: 'July 2024 - Present'
+range: 'July 2024 - April 2025'
 url: 'https://www.codepath.org/'
 ---
 

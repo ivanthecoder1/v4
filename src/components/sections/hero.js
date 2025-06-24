@@ -61,8 +61,7 @@ const Hero = () => {
 
   const one = <h1>Hello, my name is</h1>;
   const two = <h2 className="big-heading">Ivan Zhang</h2>;
-  const three = <h3 className="big-heading">Lehigh University - Computer Science</h3>;
-  const four = (
+  const three = (
     <>
       <p>
         Passionate about software development, and engineering creative and efficient solutions.
@@ -70,7 +69,7 @@ const Hero = () => {
     </>
   );
 
-  const items = [one, two, three, four];
+  const items = [one, two, three];
 
   return (
     <StyledHeroSection>

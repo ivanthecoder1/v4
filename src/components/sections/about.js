@@ -137,11 +137,10 @@ const About = () => {
             <p>
               Hello! My name is Ivan. I started programming in my second year of high school because
               of my love for video games. Eventually, I became interested in web development and
-              software engineering. Fast-forward to today, and I'm a CS student at{' '}
-              <a href="https://www2.lehigh.edu/">Lehigh University</a>. I am currently a software
-              development intern at my university where I am working on a food event application for
-              the CSE department. I am also a CodePath Tech Fellow where I provide assistance to
-              students taking the intermediate web development course.
+              software engineering. Fast-forward to today, and I graduated with a bachelor of
+              science in computer science at{' '}
+              <a href="https://www2.lehigh.edu/">Lehigh University</a>. I am currently working at
+              Barclays as a technology analyst.
             </p>
 
             <p>My hobbies include playing indie games, weightlifting, and boxing.</p>
