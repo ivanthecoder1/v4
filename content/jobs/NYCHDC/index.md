@@ -7,7 +7,8 @@ range: 'June - August 2023'
 url: 'https://www.nychdc.com/'
 ---
 
-- Developed an application for the human resources department to manage and manipulate employee information, reducing the employee badge printing process time by 50% (C#, .NET, ASP.NET)
-- Optimized operational efficiency for the IT Department by creating over 20 digital workflows using Formstack for company policies and equipment management
-- Leveraged KnowledgeLake to index financial documents, enabling seamless data retrieval for the accounting department
-- Discussed improvements and implementations to existing applications, and communicated with cross-functional teams in an Agile setting
+- Developed an HR application with C# and .NET to manage employee data, reducing employee badge printing time
+  by 50%.
+- Automated IT operations by designing and implementing 20+ digital workflows in Formstack for policy approvals, equipment management, and internal business processes.
+- Indexed and organized financial records using KnowledgeLake, improving document searchability and enabling faster retrieval for the accounting team.
+- Collaborated with developers, business stakeholders, and cross-functional teams in an Agile environment to gather requirements, refine application features, and implement process improvements.

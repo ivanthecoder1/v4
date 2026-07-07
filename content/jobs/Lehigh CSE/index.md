@@ -7,6 +7,6 @@ range: 'September 2024 - May 2025'
 url: 'https://engineering.lehigh.edu/cse'
 ---
 
-- Developed Food4Thought, a web application for Lehigh University's CSE Department, enabling professors and students to collaboratively plan food orders for in-person meetings
-- Built responsive front-end components and user interfaces using TypeScript and React.js
-- Integrated meeting scheduling and food order management with PostgreSQL and Java Spark
+- Developed Food4Thought, a full-stack web application for the Lehigh University CSE Department that enables professors and students to collaboratively coordinate food orders for in-person meetings.
+- Built responsive, reusable user interface components using React and TypeScript, improving usability across desktop and mobile devices.
+- Implemented backend APIs and integrated PostgreSQL with Java Spark to support meeting scheduling, food order management, and persistent data storage.

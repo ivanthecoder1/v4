@@ -7,7 +7,9 @@ range: 'June 2024 - August 2024'
 url: 'https://www.nbcuniversal.com/'
 ---
 
-- Revamped a legacy financial reports application using TypeScript, React, and .NET, improving the processing of financial data and enhanced visualizations
-- Implemented an admin module enabling admins to manage financial snapshots through CRUD operations within a data table
-- Developed key functionalities for the application, including a dashboard, report downloading, graph visualization, and multiple front-end views for report data
-- Rebranded NBCUniversal’s TECHWomen SharePoint website, enhancing user experience and engagement through updated visuals and navigation (HTML, CSS, CMS)
+- Migrated a financial reporting application to a modern technology stack, improving report processing time by 25%.
+- Built an administrative snapshot module with full CRUD functionality using TypeScript and .NET, enabling
+  accountants to manage and visualize financial datasets efficiently.
+- Delivered 8+ production features including dashboards, report generation, data export, and interactive graph
+  visualizations using React.
+- Rebranded NBCUniversal’s TECHWomen SharePoint website, enhancing user experience and engagement through updated visuals and navigation (HTML, CSS, CMS).

@@ -7,6 +7,6 @@ range: 'June - August 2022'
 url: 'https://peaksystemsinc.com/'
 ---
 
-- Provided technical support to over 40 CitiBank employees, addressing & troubleshooting any computer hardware and software issues
-- Reduced company equipment downtime by maintaining accurate inventory of company hardware through documentation and organization
-- Reconfigured and aided in the setup of PCs, and other computer hardware for CitiBank employees
+- Provided technical support to 40+ CitiBank employees, diagnosing and resolving hardware, software, and workstation issues to minimize downtime and maintain productivity.
+- Maintained an accurate inventory of IT assets through systematic documentation and asset tracking, improving hardware availability and reducing equipment downtime.
+- Configured, deployed, and upgraded PCs and peripheral devices for employee onboarding and hardware replacements, ensuring reliable workstation setup.

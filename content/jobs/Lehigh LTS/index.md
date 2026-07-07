@@ -7,6 +7,6 @@ range: 'August 2022 - September 2024'
 url: 'https://lts.lehigh.edu/'
 ---
 
-- Maintain over 160 websites across Lehigh University by addressing front-end issues via Jira ticket requests, ensuring consistent and up to date functionality (HTML, CSS, JavaScript)
-- Improved overall website accessibility score by 10% across all Lehigh’s websites by using Dubbot to identify and resolve accessibility concerns
-- Completed content migration and theme updates of over 300 web pages from Drupal 7 to 9
+- Maintained 160+ university websites by resolving front-end issues through Jira ticket requests using HTML, CSS, and JavaScript, ensuring reliable functionality and a consistent user experience.
+- Improved website accessibility by 10% across Lehigh University's web ecosystem by identifying and remediating accessibility issues with DubBot, supporting compliance with accessibility standards.
+- Migrated 300+ web pages from Drupal 7 to Drupal 9, updating themes, validating content, and ensuring a seamless transition with minimal disruption.

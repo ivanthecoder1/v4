@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['SQL', 'TypeScript', 'React', 'Next.js', 'Docker', 'Dokku'];
+  const skills = ['Python', 'TypeScript', 'React', 'AWS', 'Docker', 'LLM'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,15 +135,19 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Ivan. I started programming in my second year of high school because
-              of my love for video games. Eventually, I became interested in web development and
-              software engineering. Fast-forward to today, and I graduated with a bachelor of
-              science in computer science at{' '}
-              <a href="https://www2.lehigh.edu/">Lehigh University</a>. I am currently working at
-              Barclays as a technology analyst.
+              Hello! My name is Ivan Zhang. My programming journey started in my second year of high
+              school when I wanted to develop a video game. Then I started taking coding programs
+              over the summer to learn the fundamentals. Eventually, I became interested in web
+              development and software engineering and decided to pursue Computer Science as a
+              major. Fast-forward to today, and I graduated with a bachelor of science in computer
+              science at <a href="https://www2.lehigh.edu/">Lehigh University</a>. As of now, I work
+              at Barclays as a technology analyst.
             </p>
 
-            <p>My hobbies include playing indie games, weightlifting, and boxing.</p>
+            <p>
+              My hobbies include playing indie video games, weightlifting, reading manga, and
+              boxing.
+            </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>

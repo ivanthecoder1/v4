@@ -7,5 +7,5 @@ range: 'July 2024 - April 2025'
 url: 'https://www.codepath.org/'
 ---
 
-- Manage and mentor 4-5 cohorts of 4-6 students each, providing guidance and support on full stack web development projects and tasks with ReactJS, TypeScript, and JavaScript, ensuring students' successful project completion and skill development
-- Collaborate with the course instructor to enhance the quality and interactivity of course materials, ensuring an engaging learning experience for participants, leading to improved student engagement and satisfaction
+- Guided 4–5 cohorts of 4–6 students through full-stack web development projects, conducting code reviews, debugging sessions, and technical mentorship in React, TypeScript, and JavaScript.
+- Collaborated with instructional staff to refine course content, improve technical exercises, and deliver interactive learning sessions that enhanced student engagement and project outcomes.

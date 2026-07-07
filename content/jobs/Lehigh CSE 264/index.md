@@ -7,5 +7,5 @@ range: 'August 2024 - December 2024'
 url: 'https://engineering.lehigh.edu/cse/academics/course-index/cse-264-web-systems-programming-3'
 ---
 
-- Grade student projects and homework weekly for the Web Systems Programming course, covering technologies on JavaScript, React.js, MongoDB, Express, and REST APIs
-- Conduct weekly office hours, assisting students in understanding web development concepts, including client-side and server-side technologies
+- Evaluated weekly programming assignments and projects for a Web Systems Programming course covering JavaScript, React, Express, MongoDB, and REST APIs, providing detailed feedback to reinforce software engineering best practices.
+- Held weekly office hours to mentor students on front-end and back-end web development concepts, debugging techniques, and project implementation.
